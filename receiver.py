@@ -3,7 +3,7 @@ import datetime
 import sys
 import signal
 
-# module is use-case specific pyserial based tool to read from the a serial port(input)
+# module is use-case specific pyserial based tool to read from a serial port(input)
 # and look for 'ffd8' and 'ffd9' markers to decide for image boundary
 # and finally save it with a format based on time.
 
